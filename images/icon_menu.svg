@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+	<defs>
+		<style type="text/css"><![CDATA[
+			rect { fill: #fff; }
+		]]></style>
+	</defs>
+	<rect x="31.613" y="23.685" width="56.486" height="11.802"/>
+	<rect x="14.045" y="23.685" width="11.892" height="11.802"/>
+	<rect x="31.613" y="43.685" width="56.486" height="11.802"/>
+	<rect x="14.045" y="43.685" width="11.892" height="11.802"/>
+	<rect x="31.613" y="62.784" width="56.486" height="11.802"/>
+	<rect x="14.045" y="62.784" width="11.892" height="11.802"/>
+</svg>
